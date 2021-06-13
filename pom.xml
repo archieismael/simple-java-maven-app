@@ -8,8 +8,6 @@
   <name>my-app</name>
   <url>http://maven.apache.org</url>
   <properties>
-   <maven.compiler.source>1.0</maven.compiler.source>
-   <maven.compiler.target>1.0</maven.compiler.target>
  </properties>
   <dependencies>
     <dependency>
